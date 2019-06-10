@@ -1,0 +1,25 @@
+.card{
+    max-width: 600px;
+    margin: 20px 20px;
+    min-width: 450px;
+    min-height: 150px;
+}
+.add{
+    background-image: url('../../assets/cards/add.png');
+    background-size: 100%;
+}
+.srch{
+    background-image: url('../../assets/cards/srch.png');
+    background-size: 100%;
+
+}
+.del{
+    background-image: url('../../assets/cards/del.png');    
+    background-size: 100%;
+
+}
+.myrep{
+    background-image: url('../../assets/cards/myrep.png');    
+    background-size: 100%;
+
+}
